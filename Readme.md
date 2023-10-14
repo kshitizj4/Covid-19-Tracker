@@ -1,6 +1,6 @@
 # Covid Tracker
 
-The code you provided is a Python program that creates a simple graphical user interface (GUI) using the tkinter library for tracking COVID-19 data. Here's a step-by-step explanation of what's happening in the code:
+The code is a Python program that creates a simple graphical user interface (GUI) using the tkinter library for tracking COVID-19 data. Here's a step-by-step explanation of what's happening in the code:
 
 Importing Libraries: The code starts by importing three libraries: requests, bs4 (Beautiful Soup 4), and tkinter. These libraries are used for web scraping, parsing HTML data, and creating the GUI.
 
